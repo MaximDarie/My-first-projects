@@ -6,3 +6,9 @@
 # Maven
 log/
 target/
+
+# JIRA plugin
+atlassian-ide-plugin.xml
+
+# Package Files #
+
